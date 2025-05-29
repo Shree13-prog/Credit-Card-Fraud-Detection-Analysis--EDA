@@ -16,7 +16,7 @@ The dataset includes the following columns:
 2. How do transaction amounts differ between fraud and non-fraud cases?
 3. When does fraud typically occur during the day?
 4. What’s the correlation between features and fraud?
-5. What are the top 10 highest fraud transactions by amount?¶
+5. What are the top 10 highest fraud transactions by amount?
 6. Is there a trend in fraud over time (line plot)?
 7. Does the amount of fraudulent transactions differ significantly from non-fraudulent ones?
 
